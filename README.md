@@ -35,5 +35,6 @@ With the skill off, Aetox lands in the same range as the others — the lead com
 
 ## Related
 
+- [Aetox Security Audit](https://github.com/aetox-skills/aetox-security-audit) — the other half: reviewing code that already exists (a diff, a few files, a whole project). Published separately; it is not bundled with Aetox.
 - [Aetox Skills Catalog](https://github.com/aetox-skills/aetox-skills)
 - [Skill Template](https://github.com/aetox-skills/skill-template)
