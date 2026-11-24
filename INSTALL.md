@@ -16,10 +16,10 @@ Place `SKILL.md` (+ `references/`) in your project or `~/.claude/skills/aetox-se
 
 ## Other AI Tools
 
-Varies by platform. Keep `SKILL.md` and `references/defenses.md` together — the skill loads the defenses table by that relative path. See [aetox-skills catalog](https://github.com/aetox-skills/aetox-skills).
+Varies by platform. Keep `SKILL.md` together with `references/defenses.md` and `references/coverage.md` — the skill loads both by those relative paths. See [aetox-skills catalog](https://github.com/aetox-skills/aetox-skills).
 
 ## Verify
 
 ```bash
-ls SKILL.md references/defenses.md
+ls SKILL.md references/defenses.md references/coverage.md
 ```
